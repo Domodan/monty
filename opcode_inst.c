@@ -5,6 +5,7 @@
  *
  * @doubly: head of the linked list
  * @cline: line number
+ *
  * Return: no return
  */
 void _push(stack_t **doubly, unsigned int cline)
@@ -43,6 +44,7 @@ void _push(stack_t **doubly, unsigned int cline)
  *
  * @doubly: head of the linked list
  * @cline: line numbers
+ *
  * Return: no return
  */
 void _pall(stack_t **doubly, unsigned int cline)
@@ -64,6 +66,7 @@ void _pall(stack_t **doubly, unsigned int cline)
  *
  * @doubly: head of the linked list
  * @cline: line number
+ *
  * Return: no return
  */
 void _pint(stack_t **doubly, unsigned int cline)
@@ -86,6 +89,7 @@ void _pint(stack_t **doubly, unsigned int cline)
  *
  * @doubly: head of the linked list
  * @cline: line number
+ *
  * Return: no return
  */
 void _pop(stack_t **doubly, unsigned int cline)
@@ -108,6 +112,7 @@ void _pop(stack_t **doubly, unsigned int cline)
  *
  * @doubly: head of the linked list
  * @cline: line number
+ *
  * Return: no return
  */
 void _swap(stack_t **doubly, unsigned int cline)
